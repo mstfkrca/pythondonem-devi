@@ -3,6 +3,8 @@
 **Python Programlama Dönem Ödevi**  
 Telco Senaryosu | Google Colab
 
+**ÖDEV LİNKİ: https://colab.research.google.com/drive/1WXTgDTt-mrYcI4PTNzbHsb20B9i74RKs?usp=sharing
+
 ---
 
 ## Proje Hakkında
